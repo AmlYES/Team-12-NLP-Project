@@ -31,9 +31,9 @@ To prepare the data for topic modeling, the following steps were performed:
 1. **Text Cleaning**: Removed punctuation, special characters, timestamps, and non-Arabic symbols.
 2. **Tokenization**: Splitting text into individual words.
 3. **Stopword Removal**:
-  -  Compiled stopwords from various sources: common Egyptian Arabic stopwords, standard Arabic stopwords, and frequently occurring words from the dataset.
-  -  Stored stopwords in a JSON file for consistency.
-  -  Removed all stopwords from the dataset.
+    -  Compiled stopwords from various sources: common Egyptian Arabic stopwords, standard Arabic stopwords, and frequently occurring words from the dataset.
+    -  Stored stopwords in a JSON file for consistency.
+    -  Removed all stopwords from the dataset.
 4. **Lemmatization**: Attempted but faced challenges due to limited support for Egyptian Arabic in libraries such as NLTK, SpaCy, and Farasa.
 5. **Word Segmentation**: Planned as much as supported by available libraries.
 6. **N-gram Extraction**: Identified frequent word phrases (like bigrams) to capture common multi-word expressions.
