@@ -28,7 +28,7 @@ Before preprocessing, **EDA** was performed to understand the dataset:
 
 ## 🛠 Preprocessing Steps
 To prepare the data for topic modeling, the following steps were performed:
-1. **Text Cleaning**: Removed punctuation, special characters, timestamps, and non-Arabic symbols.
+1. **Text Cleaning**: Removed punctuation, numbers, extra letters, extra spaces, special characters, timestamps, and non-Arabic symbols.
 2. **Tokenization**: Splitting text into individual words.
 3. **Stopword Removal**:
     -  Compiled stopwords from various sources: common Egyptian Arabic stopwords, standard Arabic stopwords, and frequently occurring words from the dataset.
