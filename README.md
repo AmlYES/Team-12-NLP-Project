@@ -52,9 +52,7 @@ The final step involves structuring the data for effective topic modeling:
    - Columns include podcast name, episode name, category, and text content.
 2. **TF-IDF Vectorization:**
    - Converted text into numerical form using Term Frequency-Inverse Document Frequency (TF-IDF).
-3. **Clustering for Validation:**
-   - Applied K-Means clustering to group episodes and validate whether episodes from the same podcast naturally cluster together.
-4. **Finalizing the Dataset:**
+3. **Finalizing the Dataset:**
    - Saved the structured dataset into a CSV file for future modeling tasks.
 
 
