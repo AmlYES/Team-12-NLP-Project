@@ -1,0 +1,896 @@
+{
+    "Ep.16 –إيه المشكلة لو مش بنصوم رمضان وليه هو مهم كده ؟_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "محمد",
+            "score": 0.5680087208747864
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.6771982908248901
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.7692410945892334
+        },
+        {
+            "entity": "PERSON",
+            "word": "امير منير",
+            "score": 0.9982620477676392
+        },
+        {
+            "entity": "PERSON",
+            "word": "محمد الغليظ",
+            "score": 0.9969544410705566
+        }
+    ],
+    "عالمغرب ليلة 20 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.5063621997833252
+        }
+    ],
+    "عالمغرب ليلة 2 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.8272475600242615
+        },
+        {
+            "entity": "PERSON",
+            "word": "امير",
+            "score": 0.9615768790245056
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.6378241777420044
+        },
+        {
+            "entity": "DATE",
+            "word": "1 رمضان",
+            "score": 0.9762093424797058
+        },
+        {
+            "entity": "PERSON",
+            "word": "محمد غليظ",
+            "score": 0.9980670809745789
+        }
+    ],
+    "عالمغرب ليلة 1 رمضان_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.89237380027771
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.7800018787384033
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.8110502362251282
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.8025873303413391
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.44245877861976624
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.7945743203163147
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.749187171459198
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.6392296552658081
+        }
+    ],
+    "عالمغرب ليلة 5 رمضان_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "امير نبدا",
+            "score": 0.954619824886322
+        },
+        {
+            "entity": "DATE",
+            "word": "5 رمضان",
+            "score": 0.8640178442001343
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.985716700553894
+        },
+        {
+            "entity": "DATE",
+            "word": "5 رمضان",
+            "score": 0.7319737672805786
+        },
+        {
+            "entity": "PERSON",
+            "word": "محمد بيه",
+            "score": 0.9956654906272888
+        },
+        {
+            "entity": "PERSON",
+            "word": "امير",
+            "score": 0.9837377071380615
+        }
+    ],
+    "Ep.17 –إيه المشكلة في المصيف والساحل والرحلات؟_tokenized.json": [],
+    "عالمغرب ليلة 10 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "ليلة العاشرة من رمضان",
+            "score": 0.8032714128494263
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9680340886116028
+        }
+    ],
+    "عالمغرب ليلة 15 رمضان_tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "ليلة ال15",
+            "score": 0.5311203598976135
+        },
+        {
+            "entity": "DATE",
+            "word": "شهر رمضان",
+            "score": 0.8591086864471436
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.4474758505821228
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9889167547225952
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9825949668884277
+        },
+        {
+            "entity": "DATE",
+            "word": "نص رمضان",
+            "score": 0.6536761522293091
+        }
+    ],
+    "Ep.18 –إيه المشكلة _في الـ,ـقـ,ـضيـ,ـة الـ,ـفـ,ـلـ,ـسـ,ـطـ,ـيـ,ـنـ,ـيـ,ـة واللي بيحصل في غـ,ـزة؟__tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "غزة",
+            "score": 0.9829207062721252
+        },
+        {
+            "entity": "LOCATION",
+            "word": "غزة",
+            "score": 0.9318171143531799
+        },
+        {
+            "entity": "LOCATION",
+            "word": "غزة",
+            "score": 0.5615530610084534
+        }
+    ],
+    "عالمغرب ليلة 8 رمضان_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "محمد بشارك",
+            "score": 0.9691272377967834
+        },
+        {
+            "entity": "PERSON",
+            "word": "امير",
+            "score": 0.952500581741333
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "سورة الاعراف",
+            "score": 0.6081768274307251
+        },
+        {
+            "entity": "ORGANIZATION",
+            "word": "الاهلي",
+            "score": 0.6920638680458069
+        }
+    ],
+    "عالمغرب ليلة 13 رمضان_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "امين محمد",
+            "score": 0.9093375205993652
+        },
+        {
+            "entity": "DATE",
+            "word": "الامس",
+            "score": 0.8019328117370605
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "يوسف",
+            "score": 0.28732413053512573
+        },
+        {
+            "entity": "PERSON",
+            "word": "يوسف",
+            "score": 0.9265986680984497
+        }
+    ],
+    "عالمغرب ليلة 12 رمضان_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "هود",
+            "score": 0.9054799675941467
+        },
+        {
+            "entity": "PERSON",
+            "word": "هود",
+            "score": 0.9589299559593201
+        }
+    ],
+    "عالمغرب ليلة23 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.7031409740447998
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.7410480380058289
+        }
+    ],
+    "عالمغرب ليلة 7 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "شهر رمضان",
+            "score": 0.7798872590065002
+        },
+        {
+            "entity": "DATE",
+            "word": "مبارك",
+            "score": 0.8345662951469421
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.9177791476249695
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.560015082359314
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.7471573948860168
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9516921043395996
+        },
+        {
+            "entity": "PERSON",
+            "word": "محمد يصدر",
+            "score": 0.9398583173751831
+        }
+    ],
+    "عالمغرب ليلة24 رمضان_tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "الليلة",
+            "score": 0.7682375907897949
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "سورة غافر",
+            "score": 0.6199343800544739
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9915635585784912
+        }
+    ],
+    "عالمغرب ليلة 6 رمضان_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "اللحلو",
+            "score": 0.45288869738578796
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر ممدوح",
+            "score": 0.9969828724861145
+        },
+        {
+            "entity": "PERSON",
+            "word": "امير منير",
+            "score": 0.9964088797569275
+        },
+        {
+            "entity": "PERSON",
+            "word": "امير منير",
+            "score": 0.9870217442512512
+        },
+        {
+            "entity": "DATE",
+            "word": "امن رمضان",
+            "score": 0.6903904676437378
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.7573439478874207
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9795910120010376
+        },
+        {
+            "entity": "PERSON",
+            "word": "غلي",
+            "score": 0.8889359831809998
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ظ",
+            "score": 0.9286247491836548
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.7374734282493591
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.6672890186309814
+        }
+    ],
+    "عالمغرب ليلة 4 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.9058846831321716
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9674665331840515
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.8435919880867004
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.6810362935066223
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.6461678147315979
+        }
+    ],
+    "عالمغرب ليلة22 رمضان_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "امير",
+            "score": 0.9876089096069336
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.8071103096008301
+        },
+        {
+            "entity": "PERSON",
+            "word": "سامي",
+            "score": 0.8393558263778687
+        }
+    ],
+    "Ep.6 – إيه المشكلة لو مبنصليش ؟_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "اميرة",
+            "score": 0.898568332195282
+        }
+    ],
+    "عالمغرب ليلة 17 رمضان_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "محمد غليظ",
+            "score": 0.9968304634094238
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.936205267906189
+        }
+    ],
+    "إيه المشكلة في النسيان ؟_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "امير",
+            "score": 0.9001829028129578
+        }
+    ],
+    "عالمغرب ليلة30 رمضان_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "امير ايه",
+            "score": 0.9322923421859741
+        },
+        {
+            "entity": "PERSON",
+            "word": "امير",
+            "score": 0.941413938999176
+        },
+        {
+            "entity": "PERSON",
+            "word": "امير",
+            "score": 0.9617013335227966
+        },
+        {
+            "entity": "PERSON",
+            "word": "امير منير",
+            "score": 0.9953521490097046
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9880034923553467
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9667038917541504
+        },
+        {
+            "entity": "PERSON",
+            "word": "##دو",
+            "score": 0.5447567105293274
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ح",
+            "score": 0.46296247839927673
+        },
+        {
+            "entity": "PERSON",
+            "word": "محمد الغليظ",
+            "score": 0.9952442646026611
+        }
+    ],
+    "عالمغرب ليلة 11 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.4583085775375366
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.540622353553772
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.7802700996398926
+        },
+        {
+            "entity": "PERSON",
+            "word": "محمد",
+            "score": 0.9385511875152588
+        },
+        {
+            "entity": "PERSON",
+            "word": "امير",
+            "score": 0.9838730692863464
+        },
+        {
+            "entity": "PERSON",
+            "word": "امير",
+            "score": 0.9449474215507507
+        }
+    ],
+    "إيه المشكلة في الأغاني و الموسيقي ؟_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "2003",
+            "score": 0.9961232542991638
+        },
+        {
+            "entity": "DATE",
+            "word": "2004",
+            "score": 0.9876824021339417
+        }
+    ],
+    "إيه المشكلة في الصحبة و الاختلاط في المدارس و الجامعات ؟!_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9799441695213318
+        },
+        {
+            "entity": "LOCATION",
+            "word": "سيدني",
+            "score": 0.9967138767242432
+        },
+        {
+            "entity": "LOCATION",
+            "word": "البرازيل",
+            "score": 0.9890959858894348
+        },
+        {
+            "entity": "LOCATION",
+            "word": "تمثال الحرية",
+            "score": 0.9632291793823242
+        },
+        {
+            "entity": "LOCATION",
+            "word": "نهر الدنوب",
+            "score": 0.8550028204917908
+        }
+    ],
+    "عالمغرب ليلة29 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "29 رمضان",
+            "score": 0.9821475744247437
+        },
+        {
+            "entity": "DATE",
+            "word": "بداية",
+            "score": 0.7746509313583374
+        },
+        {
+            "entity": "DATE",
+            "word": "اخر رمضان",
+            "score": 0.6913347840309143
+        },
+        {
+            "entity": "DATE",
+            "word": "1 رمضان",
+            "score": 0.7246737480163574
+        },
+        {
+            "entity": "PERSON",
+            "word": "امير لو",
+            "score": 0.9856891632080078
+        }
+    ],
+    "إيه المشكلة في الشتيمة ؟_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9711355566978455
+        },
+        {
+            "entity": "PERSON",
+            "word": "امير",
+            "score": 0.9296496510505676
+        }
+    ],
+    "عالمغرب ليلة 16 رمضان_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "##ظ",
+            "score": 0.5114281177520752
+        },
+        {
+            "entity": "PERSON",
+            "word": "علاء",
+            "score": 0.9785587787628174
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.5480039119720459
+        },
+        {
+            "entity": "PERSON",
+            "word": "محمد",
+            "score": 0.9880619049072266
+        }
+    ],
+    "عالمغرب ليلة 14 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "1 رمضان",
+            "score": 0.894004225730896
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9707293510437012
+        },
+        {
+            "entity": "PERSON",
+            "word": "غلي",
+            "score": 0.9898539185523987
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ظة نجم",
+            "score": 0.9927773475646973
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.6298597455024719
+        },
+        {
+            "entity": "DATE",
+            "word": "نص رمضان",
+            "score": 0.7632189989089966
+        }
+    ],
+    "إيه المشكلة في الموت ؟_tokenized.json": [],
+    "عالمغرب ليلة25 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.5012264847755432
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "الفيسبوك",
+            "score": 0.988194465637207
+        }
+    ],
+    "عالمغرب ليلة 3 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.7667405605316162
+        },
+        {
+            "entity": "PERSON",
+            "word": "محمد",
+            "score": 0.9417166113853455
+        }
+    ],
+    "إيه المشكلة في الذنوب الصغيرة ؟_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "ياسر ممدوح",
+            "score": 0.9956507682800293
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9918879866600037
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9912147521972656
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9897441267967224
+        },
+        {
+            "entity": "PERSON",
+            "word": "وسعيد",
+            "score": 0.7411760687828064
+        },
+        {
+            "entity": "PERSON",
+            "word": "وح",
+            "score": 0.545495331287384
+        },
+        {
+            "entity": "PERSON",
+            "word": "##شك ماشي",
+            "score": 0.4398937225341797
+        },
+        {
+            "entity": "PERSON",
+            "word": "ما",
+            "score": 0.9605958461761475
+        },
+        {
+            "entity": "PERSON",
+            "word": "##شي",
+            "score": 0.9595390558242798
+        }
+    ],
+    "عالمغرب ليلة 9 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "تسعى رمضان",
+            "score": 0.7527053952217102
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "سورة الاعراف",
+            "score": 0.6577053070068359
+        },
+        {
+            "entity": "PERSON",
+            "word": "محمد",
+            "score": 0.8842598795890808
+        },
+        {
+            "entity": "PERSON",
+            "word": "علي معبدي",
+            "score": 0.9894927144050598
+        },
+        {
+            "entity": "DATE",
+            "word": "1 رمضان",
+            "score": 0.944026529788971
+        }
+    ],
+    "عالمغرب ليلة 21 رمضان_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "محمد الغليظ",
+            "score": 0.9982271194458008
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر ممدوح",
+            "score": 0.9983129501342773
+        },
+        {
+            "entity": "PERSON",
+            "word": "محمد المرادي",
+            "score": 0.9973203539848328
+        },
+        {
+            "entity": "DATE",
+            "word": "ليلة",
+            "score": 0.6500330567359924
+        },
+        {
+            "entity": "DATE",
+            "word": "21 رمضان",
+            "score": 0.9542210698127747
+        },
+        {
+            "entity": "PERSON",
+            "word": "ياسر",
+            "score": 0.9805748462677002
+        },
+        {
+            "entity": "DATE",
+            "word": "الشهر رمضان الكريم",
+            "score": 0.8137123584747314
+        }
+    ],
+    "عالمغرب ليلة26 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.9403460621833801
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.4844715893268585
+        },
+        {
+            "entity": "DATE",
+            "word": "بعد رمضان",
+            "score": 0.6920561194419861
+        },
+        {
+            "entity": "DATE",
+            "word": "بعد رمضان",
+            "score": 0.6074331402778625
+        }
+    ],
+    "عالمغرب ليلة28 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.7842130661010742
+        },
+        {
+            "entity": "DATE",
+            "word": "العيد",
+            "score": 0.5262050032615662
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.6970769166946411
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.8004514575004578
+        },
+        {
+            "entity": "DATE",
+            "word": "ورم",
+            "score": 0.7856359481811523
+        },
+        {
+            "entity": "DATE",
+            "word": "##ضان",
+            "score": 0.8721261620521545
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.6541132926940918
+        }
+    ],
+    "عالمغرب ليلة 18 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "شهر رمضان",
+            "score": 0.8722521066665649
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "سورة",
+            "score": 0.5377981066703796
+        }
+    ],
+    "عالمغرب ليلة 19 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "العشر",
+            "score": 0.8075385689735413
+        },
+        {
+            "entity": "DATE",
+            "word": "##اخر من رمضان",
+            "score": 0.6231638789176941
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.547990083694458
+        }
+    ],
+    "إيه المشكلة في قطع الأرحام ؟_tokenized.json": [],
+    "عالمغرب ليلة27 رمضان_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "العشر",
+            "score": 0.5076451897621155
+        },
+        {
+            "entity": "PERSON",
+            "word": "امير",
+            "score": 0.9784523844718933
+        }
+    ]
+}

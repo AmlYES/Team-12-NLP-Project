@@ -1,0 +1,432 @@
+{
+    "كوكتيل منوعات _tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "مي ابراهيم",
+            "score": 0.9929689168930054
+        },
+        {
+            "entity": "PERSON",
+            "word": "نجيب ساويرس",
+            "score": 0.9149105548858643
+        }
+    ],
+    "الحلقة التيبس_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "يونس",
+            "score": 0.9403612017631531
+        },
+        {
+            "entity": "PERSON",
+            "word": "ديب ديب",
+            "score": 0.9185576438903809
+        }
+    ],
+    "السنارة والعِدة الأرضي_tokenized.json": [],
+    "الانسان و الاسنان _tokenized.json": [],
+    "جايه اثير الجدل_tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "حي الكروهات",
+            "score": 0.9797041416168213
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.7785676717758179
+        },
+        {
+            "entity": "PERSON",
+            "word": "روان",
+            "score": 0.5593675971031189
+        },
+        {
+            "entity": "PERSON",
+            "word": "جون علاء الشيخ",
+            "score": 0.8089892864227295
+        },
+        {
+            "entity": "PERSON",
+            "word": "مايك",
+            "score": 0.759857714176178
+        },
+        {
+            "entity": "PERSON",
+            "word": "علاء",
+            "score": 0.9565263390541077
+        },
+        {
+            "entity": "PERSON",
+            "word": "علاء",
+            "score": 0.9528476595878601
+        },
+        {
+            "entity": "PERSON",
+            "word": "مايك",
+            "score": 0.8755964636802673
+        },
+        {
+            "entity": "PERSON",
+            "word": "كوز",
+            "score": 0.8323494791984558
+        },
+        {
+            "entity": "PERSON",
+            "word": "نهار",
+            "score": 0.7872354984283447
+        },
+        {
+            "entity": "DATE",
+            "word": "الحلقة",
+            "score": 0.5649893879890442
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.6370116472244263
+        }
+    ],
+    "الأعلام الحمرا _tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "الاسبوع",
+            "score": 0.68672114610672
+        },
+        {
+            "entity": "DATE",
+            "word": "راس",
+            "score": 0.8024294376373291
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "السنة",
+            "score": 0.43123289942741394
+        },
+        {
+            "entity": "PERSON",
+            "word": "راس",
+            "score": 0.5234066843986511
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "الافعى",
+            "score": 0.6067390441894531
+        },
+        {
+            "entity": "PERSON",
+            "word": "عمر",
+            "score": 0.9325667023658752
+        },
+        {
+            "entity": "PERSON",
+            "word": "عمر",
+            "score": 0.9094241261482239
+        }
+    ],
+    "يلا ساحل ؟_tokenized.json": [],
+    "لما تروّحي كلميني _tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "خالد حماد",
+            "score": 0.9965776205062866
+        },
+        {
+            "entity": "PERSON",
+            "word": "خالد حماد",
+            "score": 0.996588945388794
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9822706580162048
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "الورد",
+            "score": 0.5668230652809143
+        },
+        {
+            "entity": "PERSON",
+            "word": "خاتم سليمان",
+            "score": 0.7201542854309082
+        },
+        {
+            "entity": "PERSON",
+            "word": "مي ابراهيم",
+            "score": 0.9828954935073853
+        }
+    ],
+    "العاشر من كاروهات _tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "حي النيل",
+            "score": 0.9676777124404907
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "حت",
+            "score": 0.5815621018409729
+        },
+        {
+            "entity": "ORGANIZATION",
+            "word": "سيز",
+            "score": 0.41377928853034973
+        },
+        {
+            "entity": "ORGANIZATION",
+            "word": "##ن",
+            "score": 0.39089569449424744
+        },
+        {
+            "entity": "LOCATION",
+            "word": "حي الكروات",
+            "score": 0.9821258783340454
+        }
+    ],
+    "كيف بدأ القرف_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "19 رمضان",
+            "score": 0.6971949934959412
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.5960962772369385
+        },
+        {
+            "entity": "DATE",
+            "word": "27 من اغسطس",
+            "score": 0.9918768405914307
+        }
+    ],
+    "العذراء و الشعرَايه البيضاء_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "الاسبوع",
+            "score": 0.5234882235527039
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9970934391021729
+        },
+        {
+            "entity": "PERSON",
+            "word": "برو",
+            "score": 0.9406722784042358
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ير",
+            "score": 0.9466518759727478
+        }
+    ],
+    "خالد و دعاء_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "السبت",
+            "score": 0.9481744170188904
+        },
+        {
+            "entity": "PERSON",
+            "word": "دعاء",
+            "score": 0.9955398440361023
+        },
+        {
+            "entity": "PERSON",
+            "word": "وخالد",
+            "score": 0.9208686947822571
+        },
+        {
+            "entity": "PERSON",
+            "word": "دعاء",
+            "score": 0.9845300912857056
+        },
+        {
+            "entity": "PERSON",
+            "word": "دعاء",
+            "score": 0.9798230528831482
+        },
+        {
+            "entity": "PERSON",
+            "word": "خالد",
+            "score": 0.9403529167175293
+        },
+        {
+            "entity": "PERSON",
+            "word": "دعاء",
+            "score": 0.9856749176979065
+        },
+        {
+            "entity": "PERSON",
+            "word": "دعاء",
+            "score": 0.9929736852645874
+        },
+        {
+            "entity": "PERSON",
+            "word": "خالد",
+            "score": 0.9854145050048828
+        },
+        {
+            "entity": "PERSON",
+            "word": "خالد خالد",
+            "score": 0.9937609434127808
+        },
+        {
+            "entity": "DATE",
+            "word": "الاسبوع",
+            "score": 0.6739317774772644
+        }
+    ],
+    "راس السنه مع راس الافعى _tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.5615299344062805
+        },
+        {
+            "entity": "DATE",
+            "word": "6 اكتوبر",
+            "score": 0.9581310749053955
+        },
+        {
+            "entity": "LOCATION",
+            "word": "الامارات",
+            "score": 0.793350100517273
+        }
+    ],
+    "القشطوطه مش دايما موجوده _tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "برج العذراء",
+            "score": 0.9896409511566162
+        }
+    ],
+    "تيبس و تريكس الرجوع ل الأكس _tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "حي الكاروهات",
+            "score": 0.9421324729919434
+        },
+        {
+            "entity": "PERSON",
+            "word": "احمد الهريدي",
+            "score": 0.9867806434631348
+        },
+        {
+            "entity": "PERSON",
+            "word": "خالد يوان",
+            "score": 0.9196374416351318
+        },
+        {
+            "entity": "PERSON",
+            "word": "ابراهيم",
+            "score": 0.9424185752868652
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##طع",
+            "score": 0.6972001791000366
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##شر",
+            "score": 0.8564853668212891
+        },
+        {
+            "entity": "ORGANIZATION",
+            "word": "نقابة البوتكس",
+            "score": 0.9916245937347412
+        }
+    ],
+    "فول ستوب _tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "يونس",
+            "score": 0.7453190684318542
+        }
+    ],
+    "كونفيوز _tokenized.json": [],
+    "هرشة جعفر العمده السابعه _tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.6024460196495056
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "ام",
+            "score": 0.6455600261688232
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "ات 15",
+            "score": 0.7285646200180054
+        }
+    ],
+    "هابي عيد _tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "مي",
+            "score": 0.9218078255653381
+        },
+        {
+            "entity": "PERSON",
+            "word": "عمر",
+            "score": 0.988514244556427
+        }
+    ],
+    "التوعيه مسؤليه_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "شط",
+            "score": 0.5356719493865967
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "الكي",
+            "score": 0.5496061444282532
+        }
+    ],
+    "أول يوم_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "السنة",
+            "score": 0.5305158495903015
+        },
+        {
+            "entity": "PERSON",
+            "word": "والبر",
+            "score": 0.569136917591095
+        },
+        {
+            "entity": "PERSON",
+            "word": "##وكل",
+            "score": 0.6357380151748657
+        },
+        {
+            "entity": "PERSON",
+            "word": "البرو",
+            "score": 0.7219828963279724
+        },
+        {
+            "entity": "PERSON",
+            "word": "##كل",
+            "score": 0.8904679417610168
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ي",
+            "score": 0.7142897844314575
+        }
+    ],
+    "بوسطه _tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "ام وعمر",
+            "score": 0.6172228455543518
+        }
+    ]
+}

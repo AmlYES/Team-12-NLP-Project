@@ -1,0 +1,704 @@
+{
+    "من لندن الي القاهرة - عسل اسود الحقيقي وصل (Yaya Shakes) - Foodcast 8_tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "لندن",
+            "score": 0.9976713061332703
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.8136560320854187
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.7322087287902832
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9946033358573914
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "فيلم عسل اسود",
+            "score": 0.8926796317100525
+        },
+        {
+            "entity": "PERSON",
+            "word": "لاح",
+            "score": 0.8946413993835449
+        },
+        {
+            "entity": "PERSON",
+            "word": "##مد حلمي",
+            "score": 0.9920939207077026
+        },
+        {
+            "entity": "PERSON",
+            "word": "يحيى",
+            "score": 0.9888505339622498
+        },
+        {
+            "entity": "PERSON",
+            "word": "يحيى",
+            "score": 0.9759341478347778
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.866966724395752
+        },
+        {
+            "entity": "PERSON",
+            "word": "نور",
+            "score": 0.9743272662162781
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ك",
+            "score": 0.5195841193199158
+        }
+    ],
+    "قصة نجاح احسن مطعم شاورما مصري في مصر - Foodcast 3_tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "بوت",
+            "score": 0.9664933085441589
+        },
+        {
+            "entity": "LOCATION",
+            "word": "##كاس",
+            "score": 0.9766371250152588
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.994164764881134
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9950405955314636
+        },
+        {
+            "entity": "DATE",
+            "word": "20",
+            "score": 0.8758087158203125
+        },
+        {
+            "entity": "DATE",
+            "word": "##27",
+            "score": 0.9118627309799194
+        },
+        {
+            "entity": "LOCATION",
+            "word": "ايجي",
+            "score": 0.8038774728775024
+        },
+        {
+            "entity": "LOCATION",
+            "word": "##بش",
+            "score": 0.8442824482917786
+        },
+        {
+            "entity": "LOCATION",
+            "word": "##ن",
+            "score": 0.8040856122970581
+        },
+        {
+            "entity": "ORGANIZATION",
+            "word": "فودز",
+            "score": 0.40936279296875
+        },
+        {
+            "entity": "PERSON",
+            "word": "ابو سمرة",
+            "score": 0.9742851257324219
+        },
+        {
+            "entity": "PERSON",
+            "word": "ابو سمرة",
+            "score": 0.9702144861221313
+        }
+    ],
+    "ازاي تفتح مطعم ؟ - من هو الشيف محمد صلاح ملاك اللحمة ؟ - Foodcast 5_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "محمد صلاح",
+            "score": 0.9967725276947021
+        },
+        {
+            "entity": "PERSON",
+            "word": "محمد",
+            "score": 0.9647091031074524
+        }
+    ],
+    "لیه الدایت بیبوظ - خسر کل فلوسه فی مطعم - کریم امساعیل - Foodcast 2_tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "مور",
+            "score": 0.3839446008205414
+        },
+        {
+            "entity": "PERSON",
+            "word": "كريم اسماعيل",
+            "score": 0.9877073764801025
+        },
+        {
+            "entity": "PERSON",
+            "word": "كريم اسماعيل",
+            "score": 0.9834988117218018
+        },
+        {
+            "entity": "PERSON",
+            "word": "باشا",
+            "score": 0.5062716007232666
+        }
+    ],
+    "قصة مطعم زين الشام - من اقوي مطاعم الشاورما في مصر- Foodcast 16_tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9937593936920166
+        },
+        {
+            "entity": "ORGANIZATION",
+            "word": "الشام",
+            "score": 0.5765710473060608
+        },
+        {
+            "entity": "PERSON",
+            "word": "محمد",
+            "score": 0.9341258406639099
+        },
+        {
+            "entity": "PERSON",
+            "word": "عبد الله",
+            "score": 0.9651832580566406
+        },
+        {
+            "entity": "DATE",
+            "word": "رمضان",
+            "score": 0.8160309195518494
+        }
+    ],
+    "خسرو اكثر من ٤ مليون و للاسباب ديه اوعى تفتح مطعم - Foodcast 17_tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "##ين",
+            "score": 0.56298828125
+        },
+        {
+            "entity": "PERSON",
+            "word": "احمد سالم",
+            "score": 0.9952822923660278
+        },
+        {
+            "entity": "PERSON",
+            "word": "عمر",
+            "score": 0.8764172196388245
+        }
+    ],
+    "دكتور اسنان الصبح و فوودبلوجر بليل مع عمرو الهادي - Foodcast 7_tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "التي",
+            "score": 0.8843920230865479
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##ك توك",
+            "score": 0.865641176700592
+        },
+        {
+            "entity": "PERSON",
+            "word": "سنان واه",
+            "score": 0.8094921112060547
+        },
+        {
+            "entity": "PERSON",
+            "word": "عمرو الهادي",
+            "score": 0.9978901147842407
+        }
+    ],
+    "خسر في ٥ مطاعم وبدا من الصفر قبل نجاح مطعم ( Maine ماين ) - Foodcast 15_tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9945653676986694
+        },
+        {
+            "entity": "PERSON",
+            "word": "بوتين",
+            "score": 0.9713885188102722
+        },
+        {
+            "entity": "PERSON",
+            "word": "##شن",
+            "score": 0.8946335315704346
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9876788258552551
+        },
+        {
+            "entity": "LOCATION",
+            "word": "وبر",
+            "score": 0.551557183265686
+        },
+        {
+            "entity": "LOCATION",
+            "word": "##ه",
+            "score": 0.6778080463409424
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9561458826065063
+        },
+        {
+            "entity": "LOCATION",
+            "word": "السوق",
+            "score": 0.5377517342567444
+        },
+        {
+            "entity": "PERSON",
+            "word": "كوم",
+            "score": 0.9892665147781372
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ستر جوهر",
+            "score": 0.987026572227478
+        },
+        {
+            "entity": "PERSON",
+            "word": "جوهر",
+            "score": 0.5270834565162659
+        },
+        {
+            "entity": "PERSON",
+            "word": "عمرو",
+            "score": 0.8219493627548218
+        }
+    ],
+    "ما لا تعرفه عن عمرو شريف و كواليس المرحلة الجديدة - Foodcast 12_tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "مساء",
+            "score": 0.5372783541679382
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "صباح الفل",
+            "score": 0.7959474921226501
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##كا",
+            "score": 0.5319072604179382
+        },
+        {
+            "entity": "PERSON",
+            "word": "هيك",
+            "score": 0.9899335503578186
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ون",
+            "score": 0.9884064793586731
+        },
+        {
+            "entity": "PERSON",
+            "word": "عمر الشريف",
+            "score": 0.9968020915985107
+        }
+    ],
+    "قصة مطعم المحمدي الذي يقوده دكتور جراح - Foodcast 14_tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9935728311538696
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مطعم المحمدي",
+            "score": 0.7821035385131836
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9935264587402344
+        },
+        {
+            "entity": "PERSON",
+            "word": "احمد",
+            "score": 0.9878637194633484
+        },
+        {
+            "entity": "PERSON",
+            "word": "عمرو الحمد",
+            "score": 0.9916603565216064
+        },
+        {
+            "entity": "PERSON",
+            "word": "عمرو",
+            "score": 0.9901092052459717
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مطعم",
+            "score": 0.5091332197189331
+        },
+        {
+            "entity": "ORGANIZATION",
+            "word": "المحمدي",
+            "score": 0.5078452825546265
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9948910474777222
+        },
+        {
+            "entity": "PERSON",
+            "word": "المحمد",
+            "score": 0.9788292646408081
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ي",
+            "score": 0.9591258764266968
+        },
+        {
+            "entity": "PERSON",
+            "word": "المحمد",
+            "score": 0.9866802096366882
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ي",
+            "score": 0.9879618287086487
+        },
+        {
+            "entity": "PERSON",
+            "word": "المحمد",
+            "score": 0.9736904501914978
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ي",
+            "score": 0.9593062996864319
+        },
+        {
+            "entity": "PERSON",
+            "word": "المحمد",
+            "score": 0.9851840734481812
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ي",
+            "score": 0.983253538608551
+        },
+        {
+            "entity": "PERSON",
+            "word": "احمد",
+            "score": 0.9856147766113281
+        }
+    ],
+    "رحلة منعش لاكتشاف نفسه من دكتور اسنان الى مصور الى يوتيوبر - Foodcast 10_tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "فوكس تجديد يوم احد",
+            "score": 0.8348037004470825
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##اعة اثنين",
+            "score": 0.5963530540466309
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "للف",
+            "score": 0.5460904836654663
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##ود",
+            "score": 0.5458078384399414
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##كا",
+            "score": 0.42507311701774597
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "اليوتيوب",
+            "score": 0.996382474899292
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "سبوت",
+            "score": 0.9240298271179199
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##يفا",
+            "score": 0.9261208176612854
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##ي بودكاست",
+            "score": 0.6777970194816589
+        },
+        {
+            "entity": "PERSON",
+            "word": "احمد عبد المنعم",
+            "score": 0.9968281388282776
+        },
+        {
+            "entity": "PERSON",
+            "word": "منع",
+            "score": 0.8820803761482239
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ش",
+            "score": 0.8495604395866394
+        },
+        {
+            "entity": "PERSON",
+            "word": "عمرو",
+            "score": 0.971486508846283
+        }
+    ],
+    "مهندس ام فوودبلوجر ام مطور مطاعم ؟ مع عدني - Foodcast 9_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "احمد",
+            "score": 0.9662545919418335
+        }
+    ],
+    "كواليس رحلة و أكل اليابان الحلال - Foodcast 6_tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "فك",
+            "score": 0.4930402338504791
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##ست",
+            "score": 0.596991777420044
+        },
+        {
+            "entity": "PERSON",
+            "word": "رياض",
+            "score": 0.8760042786598206
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.6425991654396057
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "اليوتيوب",
+            "score": 0.9893121123313904
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "سبوت",
+            "score": 0.9848500490188599
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##يفا",
+            "score": 0.9871088266372681
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##ي",
+            "score": 0.9883285760879517
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "بود",
+            "score": 0.6095851063728333
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##كاست",
+            "score": 0.8585135340690613
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "وج",
+            "score": 0.9834113717079163
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##وجل بوتكاس",
+            "score": 0.905472457408905
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "وان",
+            "score": 0.8550341129302979
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##غام",
+            "score": 0.7534172534942627
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##ي",
+            "score": 0.9111733436584473
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "اليوتيوب",
+            "score": 0.9958791732788086
+        },
+        {
+            "entity": "LOCATION",
+            "word": "اليابان",
+            "score": 0.9869523048400879
+        },
+        {
+            "entity": "PERSON",
+            "word": "جون",
+            "score": 0.3660115599632263
+        },
+        {
+            "entity": "ORGANIZATION",
+            "word": "اليابان",
+            "score": 0.6354252099990845
+        },
+        {
+            "entity": "PERSON",
+            "word": "حازم",
+            "score": 0.9722648859024048
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9682563543319702
+        },
+        {
+            "entity": "LOCATION",
+            "word": "اليابان",
+            "score": 0.9566004276275635
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.972929060459137
+        }
+    ],
+    "من علبة بسكوت لمبادا الى اكبر مطعم في مصر - قصة مطعم قصر الكبابجي - Foodcast 11_tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9944224953651428
+        },
+        {
+            "entity": "LOCATION",
+            "word": "والوطن العربي",
+            "score": 0.9938308000564575
+        },
+        {
+            "entity": "LOCATION",
+            "word": "قصر الكاب",
+            "score": 0.9959394335746765
+        },
+        {
+            "entity": "PERSON",
+            "word": "احمد الباز",
+            "score": 0.993956446647644
+        },
+        {
+            "entity": "PERSON",
+            "word": "عمرو",
+            "score": 0.9776895642280579
+        },
+        {
+            "entity": "PERSON",
+            "word": "باشا",
+            "score": 0.507861852645874
+        },
+        {
+            "entity": "PERSON",
+            "word": "عمرو",
+            "score": 0.9800209403038025
+        }
+    ],
+    "من مهندس معماري الى مبدع في محتوى اكل - رامي سولي - Foodcast 13_tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9950560331344604
+        },
+        {
+            "entity": "PERSON",
+            "word": "رامي",
+            "score": 0.9391363263130188
+        },
+        {
+            "entity": "PERSON",
+            "word": "رامي",
+            "score": 0.9852126836776733
+        },
+        {
+            "entity": "PERSON",
+            "word": "رامي",
+            "score": 0.977408766746521
+        },
+        {
+            "entity": "LOCATION",
+            "word": "دبي",
+            "score": 0.9937766790390015
+        }
+    ],
+    "قصة حلم عمر عربي و نجاحه الرهيب في فيديوهات الطبخ - Foodcast 4_tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "بوت",
+            "score": 0.6051581501960754
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##كس",
+            "score": 0.8049908876419067
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9961844086647034
+        },
+        {
+            "entity": "LOCATION",
+            "word": "والوطن العربي",
+            "score": 0.994157075881958
+        },
+        {
+            "entity": "PERSON",
+            "word": "مست",
+            "score": 0.5632993578910828
+        },
+        {
+            "entity": "PERSON",
+            "word": "عمر",
+            "score": 0.6592760682106018
+        },
+        {
+            "entity": "PERSON",
+            "word": "عمر",
+            "score": 0.9731051325798035
+        }
+    ]
+}

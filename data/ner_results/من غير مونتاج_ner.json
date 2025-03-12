@@ -1,0 +1,847 @@
+{
+    "نقاش حراق مع محمود مهدي من فيلم جامد_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "ريمون مان",
+            "score": 0.9496016502380371
+        },
+        {
+            "entity": "PERSON",
+            "word": "محمود مهدي",
+            "score": 0.9784756898880005
+        }
+    ],
+    "اعلان ديد بول ومراجعة مسلسل رامي _tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "لب",
+            "score": 0.9341057538986206
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##وتك",
+            "score": 0.8587861061096191
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "مسلسل رامي",
+            "score": 0.7548525333404541
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "اليوتيوب",
+            "score": 0.9917507767677307
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "اليوتيوب",
+            "score": 0.9947783946990967
+        },
+        {
+            "entity": "PERSON",
+            "word": "لوج",
+            "score": 0.9418843984603882
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ان",
+            "score": 0.951858401298523
+        },
+        {
+            "entity": "PERSON",
+            "word": "لوج",
+            "score": 0.5248070955276489
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ن",
+            "score": 0.6149340271949768
+        }
+    ],
+    "قصة أول فيلم...._tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "الصيف",
+            "score": 0.6746307611465454
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.995681881904602
+        }
+    ],
+    "مراجعة شاملة كاملة لفيلم افاتار الجديد_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "جيمس كاميرون",
+            "score": 0.9954168796539307
+        },
+        {
+            "entity": "PERSON",
+            "word": "اف",
+            "score": 0.5308880805969238
+        },
+        {
+            "entity": "PERSON",
+            "word": "##اتا",
+            "score": 0.6762021780014038
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ر",
+            "score": 0.6777411699295044
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "دوي",
+            "score": 0.6182606220245361
+        },
+        {
+            "entity": "PERSON",
+            "word": "واط",
+            "score": 0.5493618845939636
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##ر",
+            "score": 0.5845794081687927
+        },
+        {
+            "entity": "DATE",
+            "word": "2009",
+            "score": 0.9616377949714661
+        },
+        {
+            "entity": "PERSON",
+            "word": "كام",
+            "score": 0.9946298599243164
+        },
+        {
+            "entity": "PERSON",
+            "word": "##يرون",
+            "score": 0.9962159991264343
+        },
+        {
+            "entity": "LOCATION",
+            "word": "هول",
+            "score": 0.6073901057243347
+        },
+        {
+            "entity": "LOCATION",
+            "word": "##يو",
+            "score": 0.5004444718360901
+        },
+        {
+            "entity": "LOCATION",
+            "word": "##د",
+            "score": 0.5433567762374878
+        },
+        {
+            "entity": "PERSON",
+            "word": "فران",
+            "score": 0.7112367153167725
+        },
+        {
+            "entity": "PERSON",
+            "word": "##شا",
+            "score": 0.7551568150520325
+        },
+        {
+            "entity": "PERSON",
+            "word": "##يز",
+            "score": 0.7708879709243774
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "فيلم تايتانيك",
+            "score": 0.9529321789741516
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "فيلم افاتار",
+            "score": 0.9703832268714905
+        },
+        {
+            "entity": "PERSON",
+            "word": "جيمس كاميرون",
+            "score": 0.9965372681617737
+        }
+    ],
+    "الفرق بين التصوير على خام فيلم والتصوير على كاميرات الديجيتال _tokenized.json": [],
+    "ليه لازم تتفرج على انمي فل ميتال الكميست Fullmetal Alchemist_ Brotherhood_tokenized.json": [
+        {
+            "entity": "ORGANIZATION",
+            "word": "ماي دلوقتي",
+            "score": 0.8478846549987793
+        },
+        {
+            "entity": "PERSON",
+            "word": "سوس",
+            "score": 0.9961246848106384
+        },
+        {
+            "entity": "PERSON",
+            "word": "##و نوفر ان",
+            "score": 0.9875478744506836
+        }
+    ],
+    "نتكلم عن الحاجات الحلوة في الانتاج المصري_tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.991970419883728
+        },
+        {
+            "entity": "PERSON",
+            "word": "لاح",
+            "score": 0.8997698426246643
+        },
+        {
+            "entity": "PERSON",
+            "word": "##مد حلمي",
+            "score": 0.9897136688232422
+        },
+        {
+            "entity": "LOCATION",
+            "word": "العالم العربي",
+            "score": 0.9877723455429077
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "نت",
+            "score": 0.9888473749160767
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##فل",
+            "score": 0.9919825196266174
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##كس",
+            "score": 0.9885302186012268
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "وك",
+            "score": 0.8780178427696228
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##ده",
+            "score": 0.8809507489204407
+        }
+    ],
+    "مشكلة السينما التجارية في هوليود _tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "اليوتيوب",
+            "score": 0.9948135614395142
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "اليوتيوب",
+            "score": 0.9959906935691833
+        }
+    ],
+    "افضل شخصية سوبرهيرو في التاريخ_tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "الكومي",
+            "score": 0.7657286524772644
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##ك",
+            "score": 0.881568193435669
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "الكومي",
+            "score": 0.8015196323394775
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##ك بوك",
+            "score": 0.765921950340271
+        }
+    ],
+    "الصندوق الغريب في عالم كتابة الافلام_tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "ال",
+            "score": 0.4681153893470764
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "مسلسل ايمي",
+            "score": 0.6099984049797058
+        },
+        {
+            "entity": "PERSON",
+            "word": "جيج",
+            "score": 0.9981763362884521
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ي ابرامز",
+            "score": 0.9970833659172058
+        },
+        {
+            "entity": "PERSON",
+            "word": "جيج",
+            "score": 0.9978349804878235
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ي ابرامز",
+            "score": 0.9968678951263428
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "ستار وورز",
+            "score": 0.8362496495246887
+        },
+        {
+            "entity": "LOCATION",
+            "word": "العالم العربي",
+            "score": 0.9770165085792542
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "ميستري بوكس",
+            "score": 0.769965648651123
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "توك تمام",
+            "score": 0.8322744965553284
+        }
+    ],
+    "اكتر افلام متشوق ليها في ٢٠٢٣_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "20",
+            "score": 0.9630865454673767
+        },
+        {
+            "entity": "DATE",
+            "word": "##23",
+            "score": 0.9492252469062805
+        },
+        {
+            "entity": "PERSON",
+            "word": "ابو اسماعيل",
+            "score": 0.9500080347061157
+        },
+        {
+            "entity": "DATE",
+            "word": "20",
+            "score": 0.9128036499023438
+        },
+        {
+            "entity": "DATE",
+            "word": "##22",
+            "score": 0.8994824886322021
+        }
+    ],
+    "افضل اغاني بداية للانمي .... علشان ليه لا_tokenized.json": [],
+    "قصص من كواليس صناعة الأفلام _tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "تومي",
+            "score": 0.652189314365387
+        }
+    ],
+    "الجانب الاسود من هوليود _tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "هاز",
+            "score": 0.7795243263244629
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ز ايه",
+            "score": 0.7095697522163391
+        },
+        {
+            "entity": "LOCATION",
+            "word": "امريكا",
+            "score": 0.4136911928653717
+        },
+        {
+            "entity": "PERSON",
+            "word": "هاز",
+            "score": 0.9416555166244507
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ز هوليود",
+            "score": 0.5889486074447632
+        }
+    ],
+    "حصاد السنة افضل افلام ٢٠٢٢_tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "##22",
+            "score": 0.45753660798072815
+        },
+        {
+            "entity": "DATE",
+            "word": "##22",
+            "score": 0.38935303688049316
+        },
+        {
+            "entity": "EVENT",
+            "word": "الحفل السنوي لجوايز الاب واسماعيلية للافلام",
+            "score": 0.851418673992157
+        }
+    ],
+    "نتفليكس وتشييل _tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9917774200439453
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9935287833213806
+        },
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9883258938789368
+        }
+    ],
+    "الدليل الشامل الكامل للفوز بجائزة الاوسكار (بتكلم بجد) _tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "اكس",
+            "score": 0.7399818301200867
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##كلوسف",
+            "score": 0.5128328204154968
+        },
+        {
+            "entity": "EVENT",
+            "word": "حفل الاوسكار",
+            "score": 0.9642464518547058
+        },
+        {
+            "entity": "DATE",
+            "word": "الف",
+            "score": 0.7677314281463623
+        },
+        {
+            "entity": "DATE",
+            "word": "19",
+            "score": 0.4340639114379883
+        }
+    ],
+    "لما الممثلين يكسروا قالب التمثيل _tokenized.json": [],
+    "كل حاجة لازم تعرفها على فيلم انت مان الجديد قبل ما ينزل_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "مار",
+            "score": 0.8497018218040466
+        },
+        {
+            "entity": "PERSON",
+            "word": "##فل",
+            "score": 0.9084615111351013
+        },
+        {
+            "entity": "PERSON",
+            "word": "مار",
+            "score": 0.6434999704360962
+        },
+        {
+            "entity": "PERSON",
+            "word": "##فل",
+            "score": 0.5657764077186584
+        },
+        {
+            "entity": "PERSON",
+            "word": "مار",
+            "score": 0.2917616069316864
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##فل",
+            "score": 0.3352835476398468
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "اليوتيوب",
+            "score": 0.9792929887771606
+        },
+        {
+            "entity": "PERSON",
+            "word": "مار",
+            "score": 0.7221351861953735
+        },
+        {
+            "entity": "PERSON",
+            "word": "##فل",
+            "score": 0.5215972065925598
+        },
+        {
+            "entity": "PERSON",
+            "word": "مار",
+            "score": 0.8637771606445312
+        },
+        {
+            "entity": "PERSON",
+            "word": "##فل",
+            "score": 0.8544350266456604
+        }
+    ],
+    "نقاش سينمائي طويل مع طارق ريفيوز_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "طارق ريفيوز",
+            "score": 0.9942307472229004
+        },
+        {
+            "entity": "PERSON",
+            "word": "محمد طارق",
+            "score": 0.9876998662948608
+        }
+    ],
+    "عن افلام الي قتلت عالمها السينمائي_tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9965147376060486
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "كورن",
+            "score": 0.5813634991645813
+        }
+    ],
+    "دراما عالم مارفل في العالم الحقيقي وشوية كلام من القلب _tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "المراد",
+            "score": 0.982273280620575
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ي المرادي",
+            "score": 0.9716916680335999
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "اي",
+            "score": 0.8394548892974854
+        }
+    ],
+    "افضل مشاهد افتتاحية في تاريخ السينما _tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "بوت",
+            "score": 0.4191054403781891
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##كاس",
+            "score": 0.43194204568862915
+        }
+    ],
+    "مراجعة فيلم بلاك بانثر_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "شد",
+            "score": 0.9184328317642212
+        },
+        {
+            "entity": "PERSON",
+            "word": "##وك",
+            "score": 0.9194861054420471
+        },
+        {
+            "entity": "PERSON",
+            "word": "مار",
+            "score": 0.6549755334854126
+        },
+        {
+            "entity": "PERSON",
+            "word": "##فل",
+            "score": 0.5527581572532654
+        },
+        {
+            "entity": "PERSON",
+            "word": "مار",
+            "score": 0.5309323668479919
+        },
+        {
+            "entity": "PERSON",
+            "word": "##فيل",
+            "score": 0.46297764778137207
+        }
+    ],
+    "أفلام مصرية غير _tokenized.json": [],
+    "عالم دي سي السينمائي بيروح في داهية _tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "2013",
+            "score": 0.990408182144165
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "فيلم مانو ستيل",
+            "score": 0.9466100931167603
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "دي سي",
+            "score": 0.5505269765853882
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "عالم مارفل",
+            "score": 0.7738936543464661
+        }
+    ],
+    "مراجعة شاملة ل فيلم بابيلون _tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "بابلون",
+            "score": 0.5868337154388428
+        }
+    ],
+    "اعلان فيلم Ant-Man الجديد هيغير كل حاجة وايه افضل مسلسل مارفل _tokenized.json": [
+        {
+            "entity": "DATE",
+            "word": "الاسبوع",
+            "score": 0.5086539387702942
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "مار",
+            "score": 0.5764938592910767
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "##فل",
+            "score": 0.6429266929626465
+        }
+    ],
+    "ايه الفرق بين ادم ساندلر وهاني رمزي _tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "اليوتيوب",
+            "score": 0.9889468550682068
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "وانت",
+            "score": 0.40643182396888733
+        },
+        {
+            "entity": "PERSON",
+            "word": "ادم ساندلر",
+            "score": 0.9981361031532288
+        },
+        {
+            "entity": "PERSON",
+            "word": "هاني رمزي",
+            "score": 0.9981441497802734
+        }
+    ],
+    "حصاد السنة أسوأ افلام ٢٠٢٢_tokenized.json": [
+        {
+            "entity": "EVENT",
+            "word": "حفل توزيع",
+            "score": 0.8462756872177124
+        },
+        {
+            "entity": "EVENT",
+            "word": "الحفل",
+            "score": 0.6791266798973083
+        },
+        {
+            "entity": "EVENT",
+            "word": "لتوزيع جوايز",
+            "score": 0.8988442420959473
+        },
+        {
+            "entity": "DATE",
+            "word": "20",
+            "score": 0.8869293332099915
+        },
+        {
+            "entity": "DATE",
+            "word": "##22",
+            "score": 0.9013282656669617
+        },
+        {
+            "entity": "EVENT",
+            "word": "حفل جوايز توزيع افضل افلام 20",
+            "score": 0.6584548354148865
+        },
+        {
+            "entity": "COMPETITION",
+            "word": "##22",
+            "score": 0.4985927641391754
+        }
+    ],
+    "البروباجندا والافلام _tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "فيلم افاتار",
+            "score": 0.924845814704895
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "فيلم افاتار",
+            "score": 0.9128406643867493
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "ال",
+            "score": 0.553135335445404
+        },
+        {
+            "entity": "PERSON",
+            "word": "جيمس كاميرون",
+            "score": 0.9976565837860107
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "فيلم افاتار",
+            "score": 0.9048845767974854
+        }
+    ],
+    "ثقافة ال_كانسل_ والحقيقة وراء انتهاء المسار الفني للمشاهير _tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "##د كاست",
+            "score": 0.4938955008983612
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "اليوتيوب",
+            "score": 0.9251982569694519
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "اليوتيوب",
+            "score": 0.9945942759513855
+        }
+    ],
+    "خلونا نتكلم عن النسوية في الافلام الهوليودية _tokenized.json": [],
+    "الدليل الشامل للمصطلحات السينمائية _tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "لجا",
+            "score": 0.8743394017219543
+        },
+        {
+            "entity": "PERSON",
+            "word": "##رد",
+            "score": 0.9278530478477478
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ن زود جا",
+            "score": 0.8074682950973511
+        }
+    ],
+    "مناقشة حفل الأوسكار الـ96_tokenized.json": [
+        {
+            "entity": "PERSON",
+            "word": "كريس روك",
+            "score": 0.9975621104240417
+        },
+        {
+            "entity": "PERSON",
+            "word": "كريس روك",
+            "score": 0.9967323541641235
+        },
+        {
+            "entity": "PERSON",
+            "word": "كريس روك",
+            "score": 0.9966927766799927
+        },
+        {
+            "entity": "PERSON",
+            "word": "جيم",
+            "score": 0.9952831864356995
+        }
+    ],
+    "تاريخ المؤثرات البصرية في عالم الافلام (مهم) _tokenized.json": [],
+    "افلام انا بكرها ولكن كل الناس بتحبها _tokenized.json": [],
+    "تحليل افضل مشهد من انمي ديث نوت مع هجوم العمالقة _tokenized.json": [],
+    "ايه الفرق بين الفيلم الاوسكاراوي والفيلم المهرجاناتي _tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "تركيا",
+            "score": 0.7508840560913086
+        },
+        {
+            "entity": "EVENT",
+            "word": "حفل الاوسكار",
+            "score": 0.7584543824195862
+        },
+        {
+            "entity": "DATE",
+            "word": "8 /",
+            "score": 0.786789059638977
+        },
+        {
+            "entity": "PERSON",
+            "word": "مبارك",
+            "score": 0.9388970136642456
+        }
+    ],
+    "حد فاكر افلام هنجر جيمز ؟_tokenized.json": [],
+    "مراجعة فيلم بلاك ادم _tokenized.json": [
+        {
+            "entity": "PRODUCT",
+            "word": "فيلم ادم",
+            "score": 0.7218149304389954
+        },
+        {
+            "entity": "PERSON",
+            "word": "دو",
+            "score": 0.9830237030982971
+        },
+        {
+            "entity": "PERSON",
+            "word": "##ين دراك جانسين",
+            "score": 0.983252227306366
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "دي سي",
+            "score": 0.6267368197441101
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "سي",
+            "score": 0.5951448082923889
+        },
+        {
+            "entity": "PRODUCT",
+            "word": "فيلم ادم",
+            "score": 0.7408502101898193
+        },
+        {
+            "entity": "LOCATION",
+            "word": "جمهورية مصر العربية",
+            "score": 0.9422941207885742
+        }
+    ],
+    "اغبى كليشيهات بتتكرر في كل الافلام_tokenized.json": [
+        {
+            "entity": "LOCATION",
+            "word": "مصر",
+            "score": 0.9844292402267456
+        }
+    ]
+}
