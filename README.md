@@ -1,4 +1,4 @@
-# Podcast Topic Modeling & NLP Analysis
+# QA Nueral Network
 
 ## 🎯 Project Overview
 This project aims for preprocess a **diverse set of 6 Egyptian Spotify podcasts, each belonging to a different category** for a **Topic Modeling** task. The dataset consists of transcribed episodes from various genres, and the goal is to analyze text data, perform exploratory data analysis (EDA), preprocess text, and prepare the data for topic modeling.
